@@ -1,3 +1,6 @@
 [submodule "modules/ngx_pagespeed"]
 	path = modules/ngx_pagespeed
 	url = https://github.com/pagespeed/ngx_pagespeed
+[submodule "modules/ngx_headers_more"]
+	path = modules/ngx_headers_more
+	url = https://github.com/openresty/headers-more-nginx-module
