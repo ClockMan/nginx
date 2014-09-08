@@ -19,3 +19,6 @@
 [submodule "modules/ngx_naxsi"]
 	path = modules/ngx_naxsi
 	url = https://github.com/nbs-system/naxsi.git
+[submodule "modules/ngx_http_accounting"]
+	path = modules/ngx_http_accounting
+	url = https://github.com/Lax/ngx_http_accounting_module.git
