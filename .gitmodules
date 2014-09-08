@@ -22,3 +22,6 @@
 [submodule "modules/ngx_http_accounting"]
 	path = modules/ngx_http_accounting
 	url = https://github.com/Lax/ngx_http_accounting_module.git
+[submodule "modules/ngx_limit_speed"]
+	path = modules/ngx_limit_speed
+	url = https://github.com/yaoweibin/nginx_limit_speed_module.git
