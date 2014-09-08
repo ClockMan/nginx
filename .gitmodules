@@ -4,3 +4,18 @@
 [submodule "modules/ngx_headers_more"]
 	path = modules/ngx_headers_more
 	url = https://github.com/openresty/headers-more-nginx-module
+[submodule "modules/ngx_http_enhanced_memcached"]
+	path = modules/ngx_http_enhanced_memcached
+	url = https://github.com/bpaquet/ngx_http_enhanced_memcached_module.git
+[submodule "modules/ngx_http_geoip2"]
+	path = modules/ngx_http_geoip2
+	url = https://github.com/leev/ngx_http_geoip2_module.git
+[submodule "modules/ngx_cache_purge"]
+	path = modules/ngx_cache_purge
+	url = https://github.com/FRiCKLE/ngx_cache_purge.git
+[submodule "modules/ngx_log_if"]
+	path = modules/ngx_log_if
+	url = https://github.com/cfsego/ngx_log_if.git
+[submodule "modules/ngx_naxsi"]
+	path = modules/ngx_naxsi
+	url = https://github.com/nbs-system/naxsi.git
